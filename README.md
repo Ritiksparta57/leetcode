@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ritiksparta57/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ritiksparta57/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritiksparta57/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ritiksparta57/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ritiksparta57/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Counting
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ritiksparta57/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0419-battleships-in-a-board](https://github.com/Ritiksparta57/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ritiksparta57/leetcode/tree/master/0463-island-perimeter) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritiksparta57/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritiksparta57/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
