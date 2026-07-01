@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritiksparta57/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2363-merge-similar-items](https://github.com/Ritiksparta57/leetcode/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ritiksparta57/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3115-maximum-prime-difference](https://github.com/Ritiksparta57/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritiksparta57/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ritiksparta57/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Divide and Conquer
@@ -104,9 +105,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3115-maximum-prime-difference](https://github.com/Ritiksparta57/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ritiksparta57/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Number Theory
 |  |
 | ------- |
+| [3115-maximum-prime-difference](https://github.com/Ritiksparta57/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ritiksparta57/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 <!---LeetCode Topics End-->
