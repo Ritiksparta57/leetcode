@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ritiksparta57/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritiksparta57/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ritiksparta57/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritiksparta57/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ritiksparta57/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0303-range-sum-query-immutable](https://github.com/Ritiksparta57/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0419-battleships-in-a-board](https://github.com/Ritiksparta57/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ritiksparta57/leetcode/tree/master/0463-island-perimeter) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritiksparta57/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ritiksparta57/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ritiksparta57/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
