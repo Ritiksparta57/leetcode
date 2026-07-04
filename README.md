@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0754-reach-a-number](https://github.com/Ritiksparta57/leetcode/tree/master/0754-reach-a-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0754-reach-a-number](https://github.com/Ritiksparta57/leetcode/tree/master/0754-reach-a-number) |
 | [3115-maximum-prime-difference](https://github.com/Ritiksparta57/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ritiksparta57/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Number Theory
