@@ -117,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ritiksparta57/leetcode/tree/master/0258-add-digits) |
 | [0754-reach-a-number](https://github.com/Ritiksparta57/leetcode/tree/master/0754-reach-a-number) |
 | [3115-maximum-prime-difference](https://github.com/Ritiksparta57/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ritiksparta57/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ritiksparta57/leetcode/tree/master/0258-add-digits) |
 | [3115-maximum-prime-difference](https://github.com/Ritiksparta57/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ritiksparta57/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Graph Theory
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ritiksparta57/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ritiksparta57/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ritiksparta57/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
