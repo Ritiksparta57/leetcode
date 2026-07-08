@@ -7,12 +7,13 @@ class Solution {
         int count=0;
         while(i<n){
             prod=prod*nums[i];//take the prod;
-            while(prod>=k){
+            while(prod>=k){//now while the prod is greater or equal to k till then just divide the prod by num[l] and keep increasing l and dividing prod untill prod<k;
                 prod=prod/nums[l];
                 l++;
             }
+            // no. of subarrays =add every single time the length of subarray 
             count+=1+(i-l);
-            i++;
+            i++;//increment the i
         }
         return count;
     }
