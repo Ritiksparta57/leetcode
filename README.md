@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ritiksparta57/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2363-merge-similar-items](https://github.com/Ritiksparta57/leetcode/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ritiksparta57/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Ritiksparta57/leetcode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3115-maximum-prime-difference](https://github.com/Ritiksparta57/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritiksparta57/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ritiksparta57/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
