@@ -27,3 +27,6 @@ class Solution {
         return res;
     }
 }
+//humko sum pta hai to agar humko pure array ko kisi no. ke barabar karna hai to jitna length me wo no. aayega multiplied number khud ;
+// phir us array me se utne beans humko hatane padenge to sum-product;
+// ab jis bhi no. pe sabse kam beans hatane pade to woh no. ke barabar hum saara array karenge;
