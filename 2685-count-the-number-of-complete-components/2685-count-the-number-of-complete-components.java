@@ -1,3 +1,11 @@
+class pair{
+    int nodenum;
+    int sumd;
+    public pair(int n,int d){
+        this.nodenum=n;
+        this.sumd=d;
+    }
+}
 class Solution {
     public int countCompleteComponents(int n, int[][] edges) {
         List<List<Integer>> l=new ArrayList<>();
@@ -11,33 +19,36 @@ class Solution {
             l.get(v).add(u);
         }
        int compco=0;
-       boolean[][] edgevisit=new boolean[n][n];
-       for(int i=0;i<n;i++)Arrays.fill(edgevisit[i],false);
         for(int i=0;i<n;i++){
             if(!visit[i]){
-                int count=dfs(l,visit,i);
-                int edge=dfse(l,i,i,edgevisit);
+                int count=0;
+                // we are counting degree as degree(in undirected)=no. of edges that are adjacent;
+                //thus the sum of them gives the total degree sum and half of it will be the no. of edges;
+                // as while counting the degree sum we add the total degree of every vertex(node) and thus while counting we add every edge two times as for every vertex the edge is going out and comin in from the same neighbouring vertex;
+                int degreesum=0;
+                pair p=dfs(l,visit,i,count,degreesum);
+                // half of degreesum gives the no. of eges in that component;
+                count=p.nodenum;
+                degreesum=p.sumd;
+                int edge=degreesum/2;
                 int comp=(count*(count-1))/2;
                 if(edge==comp)compco++;
             }
         }
         return compco;
     }
-    public int dfs(List<List<Integer>> l,boolean[] visit,int src){
+    public pair dfs(List<List<Integer>> l,boolean[] visit,int src,int node,int dsum){
         visit[src]=true;
-        int count=1;
+        node++;
+        // here we count how many edges are adjacent i.e. out and in from the vertex src and thus the size of it gives the degree of that vertex;
+        dsum+=l.get(src).size();
         for(int neigh:l.get(src)){
-            if(!visit[neigh])count+=dfs(l,visit,neigh);
+            if(!visit[neigh]){
+               pair p=dfs(l,visit,neigh,node,dsum);
+               node=p.nodenum;
+               dsum=p.sumd;
+            }
         }
-        return count;
-    }
-    public int dfse(List<List<Integer>> l,int src,int prev,boolean[][] visit){
-           visit[prev][src]=true;
-           visit[src][prev]=true;
-           int count=0;
-           for(int neigh:l.get(src)){
-            if(!visit[src][neigh])count+=1+dfse(l,neigh,src,visit);
-           }
-           return count;
+        return new pair(node,dsum);
     }
 }
