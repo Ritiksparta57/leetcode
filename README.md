@@ -210,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Ritiksparta57/leetcode/tree/master/1291-sequential-digits) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Ritiksparta57/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 <!---LeetCode Topics End-->
