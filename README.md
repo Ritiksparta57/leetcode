@@ -232,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ritiksparta57/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
