@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Ritiksparta57/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ritiksparta57/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritiksparta57/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritiksparta57/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ritiksparta57/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ritiksparta57/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1288-remove-covered-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritiksparta57/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritiksparta57/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1572-matrix-diagonal-sum](https://github.com/Ritiksparta57/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ritiksparta57/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritiksparta57/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
