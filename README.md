@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ritiksparta57/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0303-range-sum-query-immutable](https://github.com/Ritiksparta57/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0419-battleships-in-a-board](https://github.com/Ritiksparta57/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ritiksparta57/leetcode/tree/master/0463-island-perimeter) |
 | [0525-contiguous-array](https://github.com/Ritiksparta57/leetcode/tree/master/0525-contiguous-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Ritiksparta57/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Ritiksparta57/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Linked List
