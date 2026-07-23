@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritiksparta57/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritiksparta57/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritiksparta57/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1572-matrix-diagonal-sum](https://github.com/Ritiksparta57/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ritiksparta57/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritiksparta57/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritiksparta57/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritiksparta57/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Ritiksparta57/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2363-merge-similar-items](https://github.com/Ritiksparta57/leetcode/tree/master/2363-merge-similar-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ritiksparta57/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritiksparta57/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Queue
 |  |
 | ------- |
