@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Ritiksparta57/leetcode/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritiksparta57/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritiksparta57/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/Ritiksparta57/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ritiksparta57/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ritiksparta57/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ritiksparta57/leetcode/tree/master/0189-rotate-array) |
 | [0658-find-k-closest-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0658-find-k-closest-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ritiksparta57/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ritiksparta57/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ritiksparta57/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Ritiksparta57/leetcode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritiksparta57/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Ritiksparta57/leetcode/tree/master/0754-reach-a-number) |
