@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ritiksparta57/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Ritiksparta57/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/0056-merge-intervals) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ritiksparta57/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Ritiksparta57/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ritiksparta57/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ritiksparta57/leetcode/tree/master/0189-rotate-array) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ritiksparta57/leetcode/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Ritiksparta57/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
