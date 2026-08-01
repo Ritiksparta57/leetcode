@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ritiksparta57/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Ritiksparta57/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ritiksparta57/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ritiksparta57/leetcode/tree/master/0057-insert-interval) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ritiksparta57/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Ritiksparta57/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ritiksparta57/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ritiksparta57/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ritiksparta57/leetcode/tree/master/0189-rotate-array) |
 | [0658-find-k-closest-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ritiksparta57/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritiksparta57/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -331,4 +334,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0324-wiggle-sort-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ritiksparta57/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ritiksparta57/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
