@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ritiksparta57/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ritiksparta57/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/Ritiksparta57/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritiksparta57/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritiksparta57/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ritiksparta57/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritiksparta57/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ritiksparta57/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritiksparta57/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ritiksparta57/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ritiksparta57/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ritiksparta57/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ritiksparta57/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ritiksparta57/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ritiksparta57/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ritiksparta57/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritiksparta57/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0658-find-k-closest-elements) |
