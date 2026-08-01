@@ -40,3 +40,7 @@ class Solution {
         }
     }
 }
+// all we have to do is finding the next greater permutation which is possible by taking the greater numbers and swapping them with smaller number from back to front;
+// from back we just find the first smaller element;
+// then we swap it with the next greater element that is the minimum of all the greater elements on right than the given number;
+// then we reverse the array on right which basically gives the minimum possible permutation;
