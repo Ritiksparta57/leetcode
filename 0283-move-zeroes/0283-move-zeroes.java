@@ -19,5 +19,7 @@ class Solution {
             h++;
            }
         }
+        //optimal is ->1.find first occurance of zero;
+        //2.take j+1 and iterate over i=j+1 to n and select those numbers which are not 0 and tehn swap and increase j by 1; 
     }
 }
