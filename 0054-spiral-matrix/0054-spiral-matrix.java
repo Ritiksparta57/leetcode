@@ -3,6 +3,9 @@ class Solution {
         int m=matrix.length;
         int n=matrix[0].length;
         List<Integer> l=new ArrayList<>();
+        //go on checking only the boundary things and then after every traversal top will be +1;
+        //botom-1,left+1,right-1;
+        //thus we check at every point whether the top<=bottom and left<=right
         int top=0;
         int bottom=m-1;
         int left=0;
