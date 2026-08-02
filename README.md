@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritiksparta57/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Ritiksparta57/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0877-stone-game](https://github.com/Ritiksparta57/leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Ritiksparta57/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritiksparta57/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Ritiksparta57/leetcode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritiksparta57/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Ritiksparta57/leetcode/tree/master/0754-reach-a-number) |
+| [0877-stone-game](https://github.com/Ritiksparta57/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ritiksparta57/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3115-maximum-prime-difference](https://github.com/Ritiksparta57/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ritiksparta57/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritiksparta57/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0877-stone-game](https://github.com/Ritiksparta57/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritiksparta57/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Queue
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ritiksparta57/leetcode/tree/master/0042-trapping-rain-water) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ritiksparta57/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
