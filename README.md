@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ritiksparta57/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ritiksparta57/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ritiksparta57/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Ritiksparta57/leetcode/tree/master/0525-contiguous-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Ritiksparta57/leetcode/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritiksparta57/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ritiksparta57/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritiksparta57/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritiksparta57/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ritiksparta57/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ritiksparta57/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ritiksparta57/leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0347-top-k-frequent-elements) |
