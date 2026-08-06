@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ritiksparta57/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ritiksparta57/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ritiksparta57/leetcode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ritiksparta57/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ritiksparta57/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0229-majority-element-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ritiksparta57/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ritiksparta57/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ritiksparta57/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ritiksparta57/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ritiksparta57/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ritiksparta57/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ritiksparta57/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritiksparta57/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ritiksparta57/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Stack
