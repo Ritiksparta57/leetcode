@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ritiksparta57/leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Ritiksparta57/leetcode/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritiksparta57/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ritiksparta57/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ritiksparta57/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Ritiksparta57/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ritiksparta57/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ritiksparta57/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Ritiksparta57/leetcode/tree/master/0031-next-permutation) |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ritiksparta57/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
