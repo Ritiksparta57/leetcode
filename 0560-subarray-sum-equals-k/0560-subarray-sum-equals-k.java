@@ -7,10 +7,13 @@ class Solution {
         int count=0;
         for(int i=0;i<n;i++){
             sum+=nums[i];
+            //that will give me the exact value of the elements that have same sum;
             int rem=sum-k;
+            //if the map contains rem then the no. of subarrays will be added in count;
             if(m.containsKey(rem)){
                 count+=m.get(rem);
             }
+            //this will make sure that in future when sum is required then real no. of subarrays are counted;
             m.put(sum,m.getOrDefault(sum,0)+1);
         }
         return count;
