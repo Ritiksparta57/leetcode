@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ritiksparta57/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2363-merge-similar-items](https://github.com/Ritiksparta57/leetcode/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ritiksparta57/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ritiksparta57/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ritiksparta57/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ritiksparta57/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Ritiksparta57/leetcode/tree/master/3731-find-missing-elements) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/Ritiksparta57/leetcode/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ritiksparta57/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Ritiksparta57/leetcode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ritiksparta57/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3115-maximum-prime-difference](https://github.com/Ritiksparta57/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritiksparta57/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ritiksparta57/leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritiksparta57/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Ritiksparta57/leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2363-merge-similar-items](https://github.com/Ritiksparta57/leetcode/tree/master/2363-merge-similar-items) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ritiksparta57/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ritiksparta57/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Ritiksparta57/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ritiksparta57/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
