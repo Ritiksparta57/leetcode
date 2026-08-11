@@ -1,22 +1,23 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-       Set<Integer> st=new HashSet<>();
        int n=nums.length;
-       for(int i=0;i<n;i++){
-        if(!st.contains(nums[i]))st.add(nums[i]);
-       } 
-        int len=0;
-        for(int num:st){//WE  just check in the set of al letters not the whole array;
-            if(!st.contains(num-1)){// if the num-1 is there inset then the num is not the starting point of sequence thus we will surely visit the num-1 and there we wil take the longest;
-            int count=0;
-            int current=num;
-            while(st.contains(current)){
-                count++;
-                current=current+1;
+       //we just need to care about that number from where the sequence will start;
+       //we will set up a set in which all no. will be stored and then we will search for the number which do not have number -1 in the set and that is where the sequnece starts from;
+       if(n==0)return 0;
+       Set<Integer> st=new HashSet<>();
+       for(int num:nums)st.add(num);
+       int maxlen=1;
+       for(int num:st){
+          int number=num;
+          int len=1;
+          if(!st.contains(number-1)){
+            while(st.contains(number+1)){
+               len++;
+               number++;
             }
-            len=Math.max(len,count);
-        }
-        }
-        return len;
+          }
+          maxlen=Math.max(maxlen,len);
+       } 
+       return maxlen;
     }
 }
