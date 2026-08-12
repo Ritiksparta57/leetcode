@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ritiksparta57/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2363-merge-similar-items](https://github.com/Ritiksparta57/leetcode/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ritiksparta57/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ritiksparta57/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ritiksparta57/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ritiksparta57/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ritiksparta57/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritiksparta57/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ritiksparta57/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ritiksparta57/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ritiksparta57/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/Ritiksparta57/leetcode/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ritiksparta57/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Ritiksparta57/leetcode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ritiksparta57/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ritiksparta57/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3115-maximum-prime-difference](https://github.com/Ritiksparta57/leetcode/tree/master/3115-maximum-prime-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ritiksparta57/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
