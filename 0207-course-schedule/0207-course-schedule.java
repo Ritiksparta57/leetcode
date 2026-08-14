@@ -21,7 +21,8 @@ class Solution {
         for(int i=0;i<pre.length;i++){
            int x=pre[i][0];
            int y=pre[i][1];
-           //x dependent on y thus incoming on y becomes +1;
+           //incoming will on x as incoming counts the no. of courses that should be taken before joining x.
+           //thus it means how many courses are blocking the path for x;
            incoming[x]++;
            //adding the dependent x to y as x is incoming to y;
            l.get(y).add(x);
@@ -29,13 +30,15 @@ class Solution {
         List<Integer> ans=new ArrayList<>();
         Queue<Integer> q=new LinkedList<>();
         for(int i=0;i<numCourses;i++){
+            //the array incoming gives us the no. of courses which we need to take to be able to afford the course i;
+            //so let us take those courses first which do not have any dependency or no prerequesite;
             if(incoming[i]==0){
                 q.offer(i);
                 ans.add(i);
             }
         }
         while(!q.isEmpty()){
-           //now we will remove dependency of y from all of its x neighbors and if there incoming becomes 0 then we will add them to q as they are also free;
+           //now we will remove dependency of y from all of its x neighbors and if there incoming becomes 0 i.e. if there are no more prerequisite required to tak course x then we will add them to q as they are also free;
            int y=q.poll();
            for(int x:l.get(y)){
              incoming[x]--;
