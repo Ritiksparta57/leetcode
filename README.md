@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/Ritiksparta57/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ritiksparta57/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Ritiksparta57/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ritiksparta57/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ritiksparta57/leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ritiksparta57/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritiksparta57/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ritiksparta57/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Ritiksparta57/leetcode/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ritiksparta57/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Ritiksparta57/leetcode/tree/master/0860-lemonade-change) |
 | [1402-reducing-dishes](https://github.com/Ritiksparta57/leetcode/tree/master/1402-reducing-dishes) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Ritiksparta57/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ritiksparta57/leetcode/tree/master/0983-minimum-cost-for-tickets) |
