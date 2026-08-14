@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ritiksparta57/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ritiksparta57/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ritiksparta57/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ritiksparta57/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ritiksparta57/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ritiksparta57/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Ritiksparta57/leetcode/tree/master/3731-find-missing-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritiksparta57/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ritiksparta57/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ritiksparta57/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ritiksparta57/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ritiksparta57/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ritiksparta57/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ritiksparta57/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ritiksparta57/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
