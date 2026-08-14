@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Ritiksparta57/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ritiksparta57/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Ritiksparta57/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritiksparta57/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ritiksparta57/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ritiksparta57/leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Ritiksparta57/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ritiksparta57/leetcode/tree/master/0463-island-perimeter) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ritiksparta57/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Ritiksparta57/leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Ritiksparta57/leetcode/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Ritiksparta57/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ritiksparta57/leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Ritiksparta57/leetcode/tree/master/0463-island-perimeter) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ritiksparta57/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ritiksparta57/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Ritiksparta57/leetcode/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ritiksparta57/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ritiksparta57/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ritiksparta57/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
