@@ -23,9 +23,6 @@ class Solution {
                 union(u,v,par,rank,ulpu,ulpv);
             }
         }
-        // int[] realreduntant=reduntant.get(reduntant.size()-1);
-        // realreduntant[0]=realreduntant[0]+1;
-        // realreduntant[0]
         return reduntant.get(reduntant.size()-1);
     }
     //here we write the function findparent;
