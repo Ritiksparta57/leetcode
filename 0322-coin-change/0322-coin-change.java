@@ -36,3 +36,4 @@ class Solution {
     }
 }
 //in max cases always use top down not bottom up as i have used here;
+//do not initialize dp with that no. which is being used already to denote impossible things;
