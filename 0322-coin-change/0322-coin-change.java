@@ -35,3 +35,4 @@ class Solution {
         return dp[i][amount]=Math.min(pick,not);
     }
 }
+//in max cases always use top down not bottom up as i have used here;
