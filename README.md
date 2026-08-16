@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Ritiksparta57/leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ritiksparta57/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ritiksparta57/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3693-climbing-stairs-ii](https://github.com/Ritiksparta57/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/Ritiksparta57/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ritiksparta57/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ritiksparta57/leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Ritiksparta57/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1402-reducing-dishes](https://github.com/Ritiksparta57/leetcode/tree/master/1402-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritiksparta57/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3693-climbing-stairs-ii](https://github.com/Ritiksparta57/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Queue
 |  |
 | ------- |
