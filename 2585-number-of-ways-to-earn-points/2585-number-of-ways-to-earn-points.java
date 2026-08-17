@@ -37,3 +37,4 @@ class Solution {
         return dp[n][tar][remtype]=(not+pick)%mod;
     }
 }
+//Another thing to keep in mind is if a dp is depending on multiple sources then make all those sources a dimension;
