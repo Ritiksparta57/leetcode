@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Ritiksparta57/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2363-merge-similar-items](https://github.com/Ritiksparta57/leetcode/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Ritiksparta57/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2585-number-of-ways-to-earn-points](https://github.com/Ritiksparta57/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Ritiksparta57/leetcode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ritiksparta57/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ritiksparta57/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Ritiksparta57/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1402-reducing-dishes](https://github.com/Ritiksparta57/leetcode/tree/master/1402-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritiksparta57/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2585-number-of-ways-to-earn-points](https://github.com/Ritiksparta57/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [3693-climbing-stairs-ii](https://github.com/Ritiksparta57/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Queue
 |  |
@@ -581,9 +583,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Ritiksparta57/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0518-coin-change-ii) |
+| [2585-number-of-ways-to-earn-points](https://github.com/Ritiksparta57/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ritiksparta57/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0518-coin-change-ii) |
+## Multiple Knapsack
+|  |
+| ------- |
+| [2585-number-of-ways-to-earn-points](https://github.com/Ritiksparta57/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 <!---LeetCode Topics End-->
