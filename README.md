@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ritiksparta57/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Ritiksparta57/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ritiksparta57/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Ritiksparta57/leetcode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0542-01-matrix) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ritiksparta57/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Ritiksparta57/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0518-coin-change-ii) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Ritiksparta57/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 ## Complete Knapsack
@@ -600,4 +603,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
