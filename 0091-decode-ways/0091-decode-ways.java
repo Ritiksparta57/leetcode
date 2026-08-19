@@ -31,6 +31,7 @@ class Solution {
             one+=dfs(i+1,i,n,s,dp);
         }
         //befor adding 2 we need to check whether i+1 is less than n or not;
+        //as the character which we are checking must be in range less than n;
         if(i+1<n){
             String sb1=s.substring(i,i+2);
             if(sb1.charAt(0)!='0'){
