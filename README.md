@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ritiksparta57/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ritiksparta57/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ritiksparta57/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ritiksparta57/leetcode/tree/master/0202-happy-number) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ritiksparta57/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Ritiksparta57/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ritiksparta57/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Ritiksparta57/leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Ritiksparta57/leetcode/tree/master/0118-pascals-triangle) |
@@ -612,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ritiksparta57/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
