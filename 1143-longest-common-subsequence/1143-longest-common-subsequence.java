@@ -16,6 +16,8 @@ class Solution {
         char ch=s.charAt(i);
         char c=t.charAt(j);
         int l=0;
+        //we need to count when the character is similar;
+        //so we add 1 to l whenever the characters are similar;
         if(ch==c)l=1+dfs(i+1,j+1,dp,s,t,m,n);
         else{
             l=Math.max(dfs(i+1,j,dp,s,t,m,n),dfs(i,j+1,dp,s,t,m,n));
