@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Ritiksparta57/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Ritiksparta57/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ritiksparta57/leetcode/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritiksparta57/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Ritiksparta57/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritiksparta57/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ritiksparta57/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ritiksparta57/leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1143-longest-common-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1402-reducing-dishes](https://github.com/Ritiksparta57/leetcode/tree/master/1402-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritiksparta57/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Ritiksparta57/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
@@ -641,4 +643,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0112-path-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
