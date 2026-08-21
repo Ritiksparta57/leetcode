@@ -2,7 +2,7 @@ class Solution {
     public int longestCommonSubsequence(String text1, String text2) {
         int m=text1.length();
         int n=text2.length();
-        //well the major thing is if the items match then we decrement both the pointers from both the strigns else we decrement any one of them and see if they match;
+        //well the major thing is if the items match then we increment both the pointers from both the strigns else we decrement any one of them and see if they match;
         //and the relationship will be in between the ith character of text1 and the jth character of text2;
         //our dp will store the length of longest cmmon subsequence upto that index in text1 and text2;
         int[][] dp=new int[m][n];
