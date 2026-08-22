@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ritiksparta57/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritiksparta57/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Ritiksparta57/leetcode/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/Ritiksparta57/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ritiksparta57/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ritiksparta57/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ritiksparta57/leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/Ritiksparta57/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1402-reducing-dishes](https://github.com/Ritiksparta57/leetcode/tree/master/1402-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritiksparta57/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/Ritiksparta57/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [2585-number-of-ways-to-earn-points](https://github.com/Ritiksparta57/leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 ## Complete Knapsack
 |  |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Ritiksparta57/leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Backtracking
 |  |
 | ------- |
