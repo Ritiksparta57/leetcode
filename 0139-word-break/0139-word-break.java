@@ -30,3 +30,8 @@ class Solution {
         return dp[i]=false;
     }
 }
+//so the thing is we need to check only i frrom where the substring starts;
+//now we are memoizing in a for loop from i to j making a substring which is in the set;
+//and if a substring is in the set then check if the next substring is in the set or not;
+//if yes then immediately return true;
+//else once the for loop ends and we do not get such substring then return false;
