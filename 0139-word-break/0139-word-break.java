@@ -21,10 +21,12 @@ class Solution {
         //we will make a for loop where we will start from i and then go till n and check for the string in set;
         for(int j=i;j<n;j++){
             String sb=s.substring(i,j+1);
+            //if the set contains the substring and if the recursive call for the sunstring from j+1 to n yields true then it is true;
             if(st.contains(sb)&&dfs(j+1,n,s,st,dp)){
                return dp[i]=true;
             }
         }
+        //if we have a i which is not true then surely dp will be false;
         return dp[i]=false;
     }
 }
