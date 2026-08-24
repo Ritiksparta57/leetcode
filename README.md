@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ritiksparta57/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Ritiksparta57/leetcode/tree/master/0242-valid-anagram) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ritiksparta57/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Ritiksparta57/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ritiksparta57/leetcode/tree/master/0583-delete-operation-for-two-strings) |
