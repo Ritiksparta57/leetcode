@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ritiksparta57/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritiksparta57/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ritiksparta57/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Ritiksparta57/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ritiksparta57/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ritiksparta57/leetcode/tree/master/0217-contains-duplicate) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Ritiksparta57/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Ritiksparta57/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ritiksparta57/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Ritiksparta57/leetcode/tree/master/0242-valid-anagram) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ritiksparta57/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ritiksparta57/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Ritiksparta57/leetcode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Ritiksparta57/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Ritiksparta57/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ritiksparta57/leetcode/tree/master/0189-rotate-array) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritiksparta57/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Ritiksparta57/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ritiksparta57/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ritiksparta57/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0213-house-robber-ii) |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ritiksparta57/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Ritiksparta57/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ritiksparta57/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Quickselect
 |  |
@@ -605,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ritiksparta57/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Ritiksparta57/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0140-word-break-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -658,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0040-combination-sum-ii) |
+| [0140-word-break-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Ritiksparta57/leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
 ## Combinatorics
