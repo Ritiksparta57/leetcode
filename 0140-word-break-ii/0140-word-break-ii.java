@@ -12,6 +12,8 @@ class Solution {
     }
     public void dfs(int i,int n,String s,Set<String> st,String sb,List<String> l){
         //base case is whne we reach n;
+        //see what happens is when i recurse after seeing that the substring is in the set then we are moving i to j+1 but if the string has a part which is not in set then at that point i will not move forward and will never go to bc i==n thus the string will never get added to list as the base case in fulfilled;
+        //in word break 1 also when we were checking if substring belongs to stet also the next substring from j+1 should also belong and if above problem occurs then j never reaches bc thus again returning false at the end;
         if(i==n){
             l.add(sb.trim());
             return;
