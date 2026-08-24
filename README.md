@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ritiksparta57/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Ritiksparta57/leetcode/tree/master/0242-valid-anagram) |
+| [0474-ones-and-zeroes](https://github.com/Ritiksparta57/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ritiksparta57/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ritiksparta57/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Ritiksparta57/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Ritiksparta57/leetcode/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Ritiksparta57/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ritiksparta57/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0518-coin-change-ii) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Ritiksparta57/leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ritiksparta57/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/Ritiksparta57/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritiksparta57/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0518-coin-change-ii) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Ritiksparta57/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Ritiksparta57/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ritiksparta57/leetcode/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Ritiksparta57/leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Ritiksparta57/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ritiksparta57/leetcode/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Ritiksparta57/leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Backtracking
