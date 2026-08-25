@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Ritiksparta57/leetcode/tree/master/0337-house-robber-iii) |
 | [0419-battleships-in-a-board](https://github.com/Ritiksparta57/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ritiksparta57/leetcode/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/Ritiksparta57/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ritiksparta57/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Ritiksparta57/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Ritiksparta57/leetcode/tree/master/0733-flood-fill) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ritiksparta57/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ritiksparta57/leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ritiksparta57/leetcode/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Ritiksparta57/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ritiksparta57/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ritiksparta57/leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ritiksparta57/leetcode/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Ritiksparta57/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -737,4 +740,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Ritiksparta57/leetcode/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Ritiksparta57/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
