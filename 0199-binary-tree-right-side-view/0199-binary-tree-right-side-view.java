@@ -27,7 +27,7 @@ class Solution {
         //but since this question asks for right side view therefore we should mainly focus on row;
         //we will take the root as 0 th row and we will do level order traversal and update the map for the row with the last value of that row;
         //let us make pair of value and row;
-        Map<Integer,Integer> m=new HashMap<>();
+        Map<Integer,Integer> m=new LinkedHashMap<>();
         List<Integer> l=new ArrayList<>();
         if(root==null)return l;
         Queue<pair> q=new LinkedList<>();
