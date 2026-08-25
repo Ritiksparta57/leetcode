@@ -33,8 +33,9 @@ class Solution {
     height(root);
     return dia;
     }
+    //at every single node we are calculating height through height recurrence function thus allowing us to calculate diameter through adding the left and right subtree height at every node;
     public int height(TreeNode root){
-          if(root==null)return 0;
+       if(root==null)return 0;
        int left=height(root.left);//this is to get height of left subtree;
        int right=height(root.right);//and this is for right subtree;
        int d=left+right;
