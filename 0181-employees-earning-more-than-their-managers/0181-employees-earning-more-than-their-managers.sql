@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-#we need to join the same tables but on different basis that is on the basis of managerid
+#we need to join the same tables but on different basis that is on the basis of managerid from e1 and id from e2;
 select e1.name as Employee
 from Employee e1
 join Employee e2 
