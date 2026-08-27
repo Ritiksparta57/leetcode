@@ -45,13 +45,25 @@ class Solution {
         //for left the maximum will the prev. node;
         //for right the minimum will be the prev.node  and the maximum will be the maximum of prev. node;
         if(root==null)return true;
-        return dfs(root,Long.MIN_VALUE,Long.MAX_VALUE);
+        List<Long> l=new ArrayList<>();
+        dfs(root,l);
+        for(int i=1;i<l.size();i++){
+            if(l.get(i)<=l.get(i-1))return false;
+        }
+        return true;
     }
-    public boolean dfs(TreeNode root,long min,long max){
-        if(root==null)return true;
-        if((long)root.val>=max||(long)root.val<=min)return false;
-        boolean left=dfs(root.left,min,(long)root.val);//min to minimum hi rahega but maximum root ka value ho jayega;
-        boolean right=dfs(root.right,(long)root.val,max);
-        return left&&right;
+    // public boolean dfs(TreeNode root,long min,long max){
+    //     if(root==null)return true;
+    //     if((long)root.val>=max||(long)root.val<=min)return false;
+    //     boolean left=dfs(root.left,min,(long)root.val);//min to minimum hi rahega but maximum root ka value ho jayega;
+    //     boolean right=dfs(root.right,(long)root.val,max);
+    //     return left&&right;
+    // }
+    public void dfs(TreeNode root,List<Long> l){
+        //left->root->right
+        if(root==null)return;
+        dfs(root.left,l);
+        l.add((long)root.val);
+        dfs(root.right,l);
     }
 }
