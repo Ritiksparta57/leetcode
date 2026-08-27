@@ -43,7 +43,8 @@ class Solution {
             //since rep.left becomes null there we have the minimum max possible;
             //now just replce ur root with it;
             root.val=rep.val;
-            root.right=deleteNode(root.right,rep.val);
+            root.right=deleteNode(root.right,rep.val);//this is done as after replacing root we will have the node rep on right of root which will be same as root o we need to replace it;
+            //also its children(if it has) will be taken care of as the replaced one will not have left child and the right one after deleting the replaced value will take the spot;
         }
         return root;
     }
