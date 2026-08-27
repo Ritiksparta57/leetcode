@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
-#HERE DATEDIFF() IS USED TO JOIN THE TABLE WHOSE DIFFERENCE IS 1;
-select w1.id 
+#gonna use datediff
+select w1.id
 from weather w1
 join weather w2
 on DATEDIFF(w1.recordDate,w2.recordDate)=1
-where w1.temperature>w2.temperature;
+where w1.temperature>w2.temperature
