@@ -14,11 +14,19 @@ class Solution {
         //but here we have a upper hand of sorted thing;
         //we have p and q so the lca may lie in between both of them;
         //the node >=p but <=q having children on both the sides is the one;
-        if(root==null||root==p||root==q)return root;
-        TreeNode left=lowestCommonAncestor(root.left,p,q);
-        TreeNode right=lowestCommonAncestor(root.right,p,q);
-        if(left==null)return right;
-        if(right==null)return left;
-        return root;
+        // if(root==null||root==p||root==q)return root;
+        // TreeNode left=lowestCommonAncestor(root.left,p,q);
+        // TreeNode right=lowestCommonAncestor(root.right,p,q);
+        // if(left==null)return right;
+        // if(right==null)return left;
+        // return root;
+        //now with the standard solution for just bst;
+        TreeNode lca=root;
+        while(lca!=null){
+            if(p.val>lca.val&&q.val>lca.val)lca=lca.right;
+            else if(p.val<lca.val&&q.val<lca.val)lca=lca.left;
+            else return lca;
+        }
+        return null;
     }
 }
