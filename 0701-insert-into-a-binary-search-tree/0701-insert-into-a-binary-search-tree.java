@@ -32,3 +32,4 @@ class Solution {
         return root;
     }
 }
+//now i get it we do not want to insert the node in between instead we purposefully take it to the last node and then we just add it to the tree;
